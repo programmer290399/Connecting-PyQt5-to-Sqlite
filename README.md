@@ -9,7 +9,7 @@ $ git clone <>
 
 ### Step 2: Install the Dependencies.
 ```bash
-$ conda create --name <name_of_your_env> --file requirements.txt python=3.6
+$ conda create --name <name_of_your_env> --file requirements.txt 
 ```
 ### Step 3: Run the Application.
 
