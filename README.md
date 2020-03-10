@@ -14,6 +14,7 @@ $ conda create --name <name_of_your_env> --file requirements.txt
 ### Step 3: Run the Application.
 
 ```bash
+$ source activate <name_of_your_env>
 $ python sa_version.py
 ```
 
