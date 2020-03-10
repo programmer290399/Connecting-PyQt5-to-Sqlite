@@ -4,7 +4,7 @@
 
 ### Step 1: Clone this repository.
 ```bash
-$ git clone <>
+$ git clone https://github.com/programmer290399/Connecting-PyQt5-to-Sqlite.git
 ```
 
 ### Step 2: Install the Dependencies.
