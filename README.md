@@ -10,7 +10,7 @@
 
 ### Step 1: Clone this repository.
 ```bash
-$ git clone <>
+$ git clone https://github.com/programmer290399/Connecting-PyQt5-to-Sqlite.git
 ```
 
 ### Step 2: Install the Dependencies.
@@ -20,6 +20,7 @@ $ conda create --name <name_of_your_env> --file requirements.txt
 ### Step 3: Run the Application.
 
 ```bash
+$ source activate <name_of_your_env>
 $ python sa_version.py
 ```
 
