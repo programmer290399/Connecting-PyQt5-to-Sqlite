@@ -1,9 +1,13 @@
 # Simple PoC for connecting PyQt5 to Sqlite 
 
-## Prerequisites :
-* Git: you must have git installed on your machine. 
-> You can find how to install git [Here](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
+## Prerequisites : 
+_The **How to Setup** section assumes you have installed and/or are familiar with the following:_
+* Git 
+    > You can find how to install git [Here](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 * Anaconda
+    > You can find how to install Anaconda [Here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
+* PyQt5 
+    > You can find a comprehensive tutorial on PyQt5 [Here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
 
 
 ## How to setup :
@@ -20,7 +24,7 @@ $ conda create --name <name_of_your_env> --file requirements.txt
 ### Step 3: Run the Application.
 
 ```bash
-$ source activate <name_of_your_env>
+$ conda activate <name_of_your_env>
 $ python sa_version.py
 ```
 
